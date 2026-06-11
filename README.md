@@ -1,0 +1,1 @@
+# Serratec_Trabalho_Individual_de_React_Native
